@@ -1,6 +1,7 @@
 <h1 align="center">Hola bruh this is me! Abdullah</h1>
 <h3 align="center">A computer science student, interested in BackEnd, Python, Math, DevOps, Docker .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaazou&label=Profile%20views&color=blue&style=flat" alt="abdullahmagdy" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zaazou&theme=monokai" alt="abdullahmagdy" /></a> </p>
 
 
 - 🔭 I’m currently working on ...
