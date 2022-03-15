@@ -23,5 +23,5 @@
 <a href="https://twitter.com/Abdullah_Magdii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahmagdy" height="40" width="50" /></a>
   
 <a href="https://www.linkedin.com/in/abdullah-magdy-5a86401b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-magdy-5a86401b0" height="40" width="50" /></a>
-<a href="https://www.facebook.com/abdalla.magdyelsaeed" target="blank"><img align="center" src="<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg"/> alt="abdullahmagdy" height="20" width="30" /></a>
+<a href="https://www.facebook.com/abdalla.magdyelsaeed" target="blank"><img align="center" src="<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="abdullahmagdy" height="40" width="50" /></a>
 </p>
