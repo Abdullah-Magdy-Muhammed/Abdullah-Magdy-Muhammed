@@ -22,5 +22,5 @@
 <p align="left">
 <a href="https://twitter.com/Abdullah_Magdii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullahmagdy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullah-magdy-5a86401b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-magdy-5a86401b0" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="<img src="https://cdn-icons-png.flaticon.com/512/174/174848.png"/>" alt="abdullahmagdy" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="<img src="https://cdn-icons-png.flaticon.com/512/174/174848.png"/> alt="abdullahmagdy" height="30" width="40" /></a>
 </p>
