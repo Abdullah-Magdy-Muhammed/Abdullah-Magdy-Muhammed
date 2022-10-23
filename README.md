@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studing on ITI
 - 
-- 🌱 I’m currently learning **Professional Web & BI**
+- 🌱 I’m currently learning **Professional Web Development & BI**
 - 
 - 👯 I’m looking to collaborate on **My Track**
 - 
