@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zaazou&theme=monokai" alt="abdullahmagdy" /></a> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studing on ITI
 - 
-- 🌱 I’m currently learning **FastAPI, Postgresql**
+- 🌱 I’m currently learning **Professional Web & BI**
 - 
-- 👯 I’m looking to collaborate on **graduation project**
+- 👯 I’m looking to collaborate on **My Track**
 - 
 - 🤔 I’m looking for help with **FastAPI, Dealing with servers**
 - 
-- 💬 Ask me about **Python, PHP, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Python, PHP, HTML, CSS, Bootstrap, JS**
 - 
 - 📫 How to reach me: **magdyabdullah200@gmail.com**
 
