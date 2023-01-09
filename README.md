@@ -13,7 +13,7 @@
 - 
 - 🤔 I’m looking for help with **FastAPI, Dealing with servers**
 - 
-- 💬 Ask me about **Python, PHP, HTML, CSS, Bootstrap, JS**
+- 💬 Ask me about **C, C++, HTML, CSS, Bootstrap, JS**
 - 
 - 📫 How to reach me: **magdyabdullah200@gmail.com**
 
