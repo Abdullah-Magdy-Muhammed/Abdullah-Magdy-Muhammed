@@ -9,7 +9,7 @@
 - 
 - 🌱 I’m currently learning **Professional Web Development & BI**
 - 
-- 👯 I’m looking to collaborate on **My Track**
+- 👯 I’m looking to collaborate on **Any computer science issuses**
 - 
 - 🤔 I’m looking for help with **FastAPI, Dealing with servers**
 - 
