@@ -2,7 +2,7 @@
 <h3 align="center">A computer science geek, interested in BackEnd, Javascript, Math, DevOps, Docker & BI </h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahMagdyMuhammed&theme=monokai" alt="abdullahmagdy" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Magdy-Muhammed&theme=monokai" alt="abdullahmagdy" /></a> </p>
 
 - 🔭 I’m currently studing on ITI
 - 
