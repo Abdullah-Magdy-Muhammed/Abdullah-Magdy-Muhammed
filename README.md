@@ -1,7 +1,7 @@
 <h1 align="center">Hola bruh this is Abdullah himself!</h1>
 <h3 align="center">A computer science geek, interested in BackEnd, Javascript, Math, DevOps, Docker & BI </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahMagdyMuhammed&label=Profile%20views&color=blue&style=flat" alt="abdullahmagdy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdullah-Magdy-Muhammed&label=Profile%20views&color=blue&style=flat" alt="abdullahmagdy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahMagdyMuhammed&theme=monokai" alt="abdullahmagdy" /></a> </p>
 
